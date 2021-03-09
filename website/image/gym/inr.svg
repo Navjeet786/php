@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-custom_12">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="custom_12" data-name="custom – 12" clip-path="url(#clip-custom_12)">
+    <rect width="512" height="512" fill="#fff"/>
+    <g id="rupee" transform="translate(0 0)">
+      <g id="Group_36199" data-name="Group 36199">
+        <g id="Group_36198" data-name="Group 36198">
+          <path id="Path_38571" data-name="Path 38571" d="M256,0C114.848,0,0,114.848,0,256S114.848,512,256,512,512,397.152,512,256,397.152,0,256,0Zm0,480C132.512,480,32,379.52,32,256S132.512,32,256,32,480,132.48,480,256,379.488,480,256,480Z" fill="#222"/>
+        </g>
+      </g>
+      <g id="Group_36201" data-name="Group 36201" transform="translate(159.992 128)">
+        <g id="Group_36200" data-name="Group 36200">
+          <path id="Path_38572" data-name="Path 38572" d="M336,192H318.368a78.92,78.92,0,0,0-14.784-32H336a16,16,0,1,0,0-32H176a16,16,0,1,0,0,32h64a47.913,47.913,0,0,1,45.056,32H176a16,16,0,0,0,0,32H285.056A47.914,47.914,0,0,1,240,256H176a16.007,16.007,0,0,0-14.784,9.888,15.874,15.874,0,0,0,0,12.224,15.247,15.247,0,0,0,3.488,5.216L292.672,411.3A16,16,0,1,0,315.328,388.7L214.624,288H240a80.077,80.077,0,0,0,78.368-64H336a16,16,0,0,0,0-32Z" transform="translate(-159.992 -128)" fill="#222"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

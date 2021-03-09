@@ -1,0 +1,258 @@
+.d{
+    background-color: white;
+}
+
+.aa{
+    color: black;
+}
+
+
+.nav-link{
+    font-weight: 400;
+    color: black!important;
+    font-size: 20px;
+    background-color: #e833a!important;
+
+
+   }
+.navbar-nav{
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nav1{
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+
+}
+
+.logo{
+    width: 15%;
+    height: auto;
+    
+}
+
+
+@media(max-width:700px)
+{
+    .mob-view{
+        background-color: red;
+
+    }
+    .a{
+        
+    }
+
+    .nav-link{
+        color: black!important;
+    }
+
+    .hi{
+        height: 400px;
+    }
+}
+
+
+
+
+*{
+margin: 0px;
+padding: 0px;
+
+}
+
+.h{
+    width: 100%;
+    height: 100%;
+    margin-top: 72px;
+}
+
+
+     
+        .a1{
+            height: 383px;
+        }
+
+
+.carousel-caption{
+    color: #fff;
+    position: absolute;
+    top: 27%;
+    left: 82px;
+  }
+
+  b{
+    font-size: 70px;
+
+    
+    font-weight: bold;
+
+    font-family: 'Langar', cursive;
+    color: red;
+    
+}
+
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+    border-bottom-style: ridge;
+    border-bottom-color: red;
+}
+
+.i{
+    width: 16px;
+height: 16px;}
+
+
+.meta-content{
+    display: inline-block;
+    white-space: nowrap;
+    font-size: 15px;
+    padding-left: 5px;
+    margin-bottom: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.i1{
+    width: 100%;
+    height: 240px;
+}
+
+.q{
+    color: #c6c5c1;}
+
+
+.w{
+    background-color: black;
+}
+
+.o{
+    width: 75%;
+}
+
+.p{
+    font-size: 30px;
+}
+
+.banner{
+    width: 100%;
+    height: auto;
+    background-image: url(../image/gym/banner5.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.r{
+color: red;
+text-align: center;
+}
+
+.textbox{
+    display: flex;
+    font-size: 16px;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    text-align: left
+}
+
+.left-text{
+    width: 40%;
+    
+}
+
+.right-text{
+    width: 60%;
+
+}
+.hh{
+    height: 501px;
+    padding-top: 101px;
+}
+
+.a{
+            border-radius: 20px;
+        }
+
+
+        .banner4{
+    width: 100%;
+    height: auto;
+    background-image: url(../image/gym/banner7.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.r1{
+    color: red;
+}
+
+ .banner5{
+    width: 100%;
+    height: auto;
+    background-image: url(../image/gym/28.webp);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hhh{
+    width: 300px;
+    height: 100%;
+}
+
+h2{
+    font-family: 'Hanalei Fill', cursive;
+}
+
+h6{
+    font-family: 'Nova Flat', cursive
+}
+
+.text-block{
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 5px;
+    background-color: rgba(0,0,0,.02);
+    border-bottom: 1px solid rgba(0,0,0,.3);
+    padding: 20px 25px;
+    align-items: center;
+}
+
+
+.bold{
+    color: #242751;
+    font-weight: 600;
+    line-height: 2;
+    margin-right: 40px;
+    width: 250px;
+    font-size: 20px;
+}
+
+.text{
+    font-size: 17px
+}
+
+.bb{
+    margin-left: 81px;
+    margin-right: 70px;
+}
+
+.banner6{
+    width: 100%;
+    height: auto;
+    background-image: url(../image/gym/29.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-fluid{
+    margin-top: 64px;
+}

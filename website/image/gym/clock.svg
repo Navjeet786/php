@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <clipPath id="clip-custom_10">
+      <rect width="512" height="512"/>
+    </clipPath>
+  </defs>
+  <g id="custom_10" data-name="custom – 10" clip-path="url(#clip-custom_10)">
+    <rect width="512" height="512" fill="#fff"/>
+    <g id="time" transform="translate(0 0)">
+      <path id="Path_38568" data-name="Path 38568" d="M256,0C114.844,0,0,114.844,0,256S114.844,512,256,512,512,397.156,512,256,397.156,0,256,0Zm0,480C132.484,480,32,379.515,32,256S132.484,32,256,32,480,132.484,480,256,379.516,480,256,480Z" transform="translate(0 0)" fill="#222"/>
+      <path id="Path_38569" data-name="Path 38569" d="M239.794,83.118h-32V249.742L308.482,350.43,331.107,327.8l-91.313-91.312Z" transform="translate(32.206 12.882)" fill="#222"/>
+    </g>
+  </g>
+</svg>
